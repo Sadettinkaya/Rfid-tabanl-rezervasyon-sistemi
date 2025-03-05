@@ -29,12 +29,18 @@ Bu proje, **RFID tabanlı bir erişim kontrol sistemi** ile bu ihtiyaca çözüm
 ---
 
 ## **İş Modeli (Business Canvas Model)**
-![Business Canvas Model](gorsel_yolu.png)
+![Business Canvas Model](Ismodeli.png)
 
 ---
 
-## **Blynk Uygulamasından Görseller**
-![Blynk Ekran Görüntüsü](blynk_gorsel.png)
+## **Blynk Uygulaması Ve Firebaseden Görseller**
+![Blynk Ekran Görüntüsü](Firebaseblynk.jpg)
+
+---
+
+
+## **Devre Görseli**
+![Devre Ekran Görüntüsü](Devre.jpg)
 
 ---
 
